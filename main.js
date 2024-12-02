@@ -7,6 +7,6 @@ document.getElementById("form-deposito").addEventListener("submit", function (ev
     if (numeroA > numeroB) {
         alert("Número A é maior que número B. Tudo certo!");
     } else {
-        alert("Erro: O número A deve ser maior que o número B.");
+        alert("Incorreto O número A deve ser maior que o número B.");
     }
 });
